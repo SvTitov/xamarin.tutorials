@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903958334438",
+    "firebase_url": "https://xamarintutorial-4965a.firebaseio.com",
+    "project_id": "xamarintutorial-4965a",
+    "storage_bucket": "xamarintutorial-4965a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903958334438:android:879c7dd7d66f8dfaac2427",
+        "android_client_info": {
+          "package_name": "com.xamarin.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903958334438-1uirplesdt2vtgcnisgimlm1cpkvs329.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBOojzh1ySGxoKFRHokpHfLs1ac4Xi0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903958334438-1uirplesdt2vtgcnisgimlm1cpkvs329.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
